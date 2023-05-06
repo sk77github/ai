@@ -1,0 +1,2 @@
+# ai
+all about ai
